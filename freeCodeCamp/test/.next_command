@@ -446,3 +446,20 @@ cd ..
 __vsc_prompt_cmd_original
 ls --color=auto
 rm header.png
+rm footer.jpeg
+ls --color=auto
+ls --color=auto
+cd /workspace/project/website
+ls --color=auto
+ls --color=auto
+ls --color=auto
+rm header.png
+rm footer.jpeg
+rm background.jpg
+ls --color=auto
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+cd images
+ls --color=auto
+cd ..
+ls --color=auto
