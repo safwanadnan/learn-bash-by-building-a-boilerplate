@@ -31,3 +31,4 @@ ls --color=auto
 cd freeCodeCamp
 print working directory
 pwd
+ls --color=auto
