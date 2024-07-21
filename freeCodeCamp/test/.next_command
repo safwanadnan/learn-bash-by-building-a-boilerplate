@@ -33,3 +33,4 @@ print working directory
 pwd
 ls --color=auto
 cd test
+pwd
