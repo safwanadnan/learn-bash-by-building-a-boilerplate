@@ -119,3 +119,4 @@ echo hello website
 __vsc_prompt_cmd_original
 touch index.html
 touch styles.css
+ls --color=auto
