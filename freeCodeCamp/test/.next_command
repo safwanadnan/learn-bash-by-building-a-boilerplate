@@ -132,3 +132,4 @@ touchheader.png
 touch header.pngvvv
 touch header.png
 touch footer.jpeg
+ls --color=auto
